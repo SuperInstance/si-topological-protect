@@ -1,0 +1,6 @@
+[package]
+name = "si-topological-protect"
+version = "0.1.0"
+edition = "2021"
+description = "Topological protection of agent consensus — homology classes determine which agreements are structurally stable"
+license = "MIT"
